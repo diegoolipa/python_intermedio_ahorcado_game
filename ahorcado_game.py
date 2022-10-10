@@ -42,6 +42,7 @@ def palabra_random():
     palabra = my_list[r]
     palabra_inicial.append(palabra)
 
+
 def valida(a, b):
     return a == b
 
